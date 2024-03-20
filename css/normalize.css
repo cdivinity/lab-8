@@ -1,6 +1,12 @@
+body {
+ background-image: url("image/posters-abstract-blue-background-of-elegant-dark-blue-vintage-grunge-bac.jpg.jpg");
+ 
+}
+
+
 
 #main-navbar {
- background-image: url("image/posters-abstract-blue-background-of-elegant-dark-blue-vintage-grunge-bac.jpg.jpg");
+  background-color: purple;
   overflow: hidden;
 }
 
