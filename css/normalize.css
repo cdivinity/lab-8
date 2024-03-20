@@ -1,5 +1,5 @@
 body  {
-  background-image: url("../image/360_F_300808649_zCM3DACzRfbgSaZ2RsyDLZqIsf6Nh3hW.jpg");
+  background-image: url("../image/beautiful-ocean-pictures-1920-x-1200-6r2ljotdu3o25cio.jpg");
 
 }
 
@@ -39,7 +39,7 @@ body  {
 }
 
 #main-navbar ul li a:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 #onpage {
@@ -49,7 +49,7 @@ body  {
 #sidebar {
   position: fixed;
   right:0%;
-  background-color: red;
+  background-color: yellow;
   height: 100%;
   width: 20%;
 }
@@ -63,7 +63,7 @@ body  {
 #sidebar ul li a {
   display: block;
   padding: 15px 0;
-  color: #fff;
+  color: #FF4500;
   text-decoration: none;
 }
 
